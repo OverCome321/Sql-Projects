@@ -1,2 +1,0 @@
-# Lab-Projects
-SQL Projects 
