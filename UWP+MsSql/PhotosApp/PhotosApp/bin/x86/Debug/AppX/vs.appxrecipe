@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-FPUO2EV</Machine>
+    <WindowsUser>fanel</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>adaee882-78e8-44f4-8c26-126132c2de50</PackageIdentityName>
+    <PackageIdentityPublisher>CN=fanel</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>370048090A677E0C83734515FF8D5CA2512A74FD9E30384B4D8852D2E40364B0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>adaee882-78e8-44f4-8c26-126132c2de50_1.0.0.0_x86__r3zg3y5fbha6p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>adaee882-78e8-44f4-8c26-126132c2de50_r3zg3y5fbha6p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>adaee882-78e8-44f4-8c26-126132c2de50</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=fanel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-18T08:43:49.338</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\PhotosApp.exe">
+      <PackagePath>entrypoint\PhotosApp.exe</PackagePath>
+      <Modified>2022-09-18T08:43:48.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2019-11-15T08:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.bcl.hashcode\1.1.0\lib\netstandard2.0\Microsoft.Bcl.HashCode.dll">
+      <PackagePath>Microsoft.Bcl.HashCode.dll</PackagePath>
+      <Modified>2019-11-15T08:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.data.sqlite.core\3.1.2\lib\netstandard2.0\Microsoft.Data.Sqlite.dll">
+      <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
+      <Modified>2020-01-18T04:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.dotnet.platformabstractions\3.1.2\lib\netstandard2.0\Microsoft.DotNet.PlatformAbstractions.dll">
+      <PackagePath>Microsoft.DotNet.PlatformAbstractions.dll</PackagePath>
+      <Modified>2020-01-17T21:24:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.entityframeworkcore\3.1.2\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
+      <Modified>2020-01-18T04:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.entityframeworkcore.abstractions\3.1.2\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
+      <Modified>2020-01-18T04:44:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.entityframeworkcore.design\3.1.2\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Design.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
+      <Modified>2020-01-18T04:44:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.entityframeworkcore.relational\3.1.2\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+      <Modified>2020-01-18T04:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\3.1.2\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Sqlite.dll</PackagePath>
+      <Modified>2020-01-18T04:44:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.caching.abstractions\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
+      <Modified>2020-01-18T03:30:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.caching.memory\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
+      <Modified>2020-01-18T03:31:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.configuration\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
+      <Modified>2020-01-18T03:31:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.configuration.abstractions\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
+      <Modified>2020-01-18T03:31:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.configuration.binder\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Binder.dll</PackagePath>
+      <Modified>2020-01-18T03:31:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.2\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
+      <Modified>2020-01-18T03:32:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.1.2\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+      <Modified>2020-01-18T03:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.dependencymodel\3.1.2\lib\netstandard2.0\Microsoft.Extensions.DependencyModel.dll">
+      <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
+      <Modified>2020-01-17T21:24:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.logging\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Logging.dll">
+      <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
+      <Modified>2020-01-18T03:32:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.logging.abstractions\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+      <Modified>2020-01-18T03:32:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.options\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Options.dll">
+      <PackagePath>Microsoft.Extensions.Options.dll</PackagePath>
+      <Modified>2020-01-18T03:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\microsoft.extensions.primitives\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll">
+      <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
+      <Modified>2020-01-18T03:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2022-06-10T19:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.0.2\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2019-11-01T17:24:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\sqlitepclraw.core\2.0.2\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2019-11-01T17:23:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\win10-x86\nativeassets\uap10.0\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2019-08-15T18:14:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.0.2\lib\uap10.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2019-11-01T17:23:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\system.collections.immutable\1.7.0\lib\netstandard2.0\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2019-11-15T08:37:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\system.diagnostics.diagnosticsource\4.7.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
+      <Modified>2019-11-15T08:54:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\system.runtime.compilerservices.unsafe\4.7.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2019-11-15T08:37:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\system.text.encodings.web\4.7.0\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+      <Modified>2019-11-15T08:37:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\.nuget\packages\system.text.json\4.7.1\lib\netstandard2.0\System.Text.Json.dll">
+      <PackagePath>System.Text.Json.dll</PackagePath>
+      <Modified>2020-01-17T18:27:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2020-12-02T01:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\1.jpg">
+      <PackagePath>Assets\Photos\1.jpg</PackagePath>
+      <Modified>2022-09-17T10:35:20.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\2.jpg">
+      <PackagePath>Assets\Photos\2.jpg</PackagePath>
+      <Modified>2022-09-17T10:35:20.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\3.jpg">
+      <PackagePath>Assets\Photos\3.jpg</PackagePath>
+      <Modified>2022-09-17T10:35:20.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\4.jpg">
+      <PackagePath>Assets\Photos\4.jpg</PackagePath>
+      <Modified>2022-09-17T10:35:20.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\5.jpg">
+      <PackagePath>Assets\Photos\5.jpg</PackagePath>
+      <Modified>2022-09-17T10:35:20.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\6.jpg">
+      <PackagePath>Assets\Photos\6.jpg</PackagePath>
+      <Modified>2022-09-17T10:35:20.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\icons8-полный-экран-64.png">
+      <PackagePath>Assets\Photos\icons8-полный-экран-64.png</PackagePath>
+      <Modified>2022-09-17T15:18:58.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Photos\switch-to-full-screen-button_icon-icons.com_72531.png">
+      <PackagePath>Assets\Photos\switch-to-full-screen-button_icon-icons.com_72531.png</PackagePath>
+      <Modified>2022-09-17T15:15:42.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-09-14T15:41:58.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-14T15:41:58.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-14T15:41:58.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-14T15:41:58.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-14T15:41:58.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-14T15:41:58.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-14T15:41:58.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2022-09-17T13:17:35.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\DB_PhotosAndComm.db">
+      <PackagePath>DB_PhotosAndComm.db</PackagePath>
+      <Modified>2022-09-17T13:06:40.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\Fonts\FiraSans-Medium.otf">
+      <PackagePath>Fonts\FiraSans-Medium.otf</PackagePath>
+      <Modified>2022-09-17T15:06:41.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\PhotosApp.xr.xml">
+      <PackagePath>PhotosApp.xr.xml</PackagePath>
+      <Modified>2022-09-17T15:46:01.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-09-18T08:43:48.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2022-09-18T08:43:48.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\PhotosPage.xbf">
+      <PackagePath>PhotosPage.xbf</PackagePath>
+      <Modified>2022-09-18T08:43:48.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2020-12-01T23:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-09-17T15:20:05.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fanel\OneDrive\Рабочий стол\Бд 9\PhotosApp\PhotosApp\bin\x86\Debug\Core\PhotosApp.exe">
+      <PackagePath>PhotosApp.exe</PackagePath>
+      <Modified>2022-09-18T08:43:49.334</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

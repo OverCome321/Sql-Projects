@@ -1,0 +1,48 @@
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\AplicationForStoreOrderMaking.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\AplicationForStoreOrderMaking.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\AplicationForStoreOrderMaking.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\EntityFramework.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\EntityFramework.xml
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\CreateOrder.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\CreateOrder.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\YourOrders.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\YourOrders.baml
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\AplicationForStoreOrderMaking.exe.config
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\AplicationForStoreOrderMaking.exe
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\AplicationForStoreOrderMaking.pdb
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\EntityFramework.dll
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\EntityFramework.xml
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\bin\Debug\ru\EntityFramework.resources.dll
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.AssemblyReference.cache
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.SuggestedBindingRedirects.cache
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\MainWindow.g.cs
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\CreateOrder.g.cs
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\YourOrders.g.cs
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\App.g.cs
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking_MarkupCompile.cache
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking_MarkupCompile.lref
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\MainWindow.baml
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\CreateOrder.baml
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\Pages1\YourOrders.baml
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.g.resources
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.Properties.Resources.resources
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.GenerateResource.cache
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.CoreCompileInputs.cache
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.csproj.CopyComplete
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.exe
+E:\Бд8\AplicationForStoreOrderMaking\AplicationForStoreOrderMaking\obj\Debug\AplicationForStoreOrderMaking.pdb
